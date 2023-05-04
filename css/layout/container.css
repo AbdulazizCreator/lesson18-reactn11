@@ -1,0 +1,9 @@
+.container {
+  /* 1440-2*165+40=1150 */
+  max-width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
